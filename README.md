@@ -24,11 +24,13 @@ An Android app (Kotlin + Jetpack Compose) that reads device sensors with `Sensor
 
 | Item | Value |
 |---|---|
-| Device model | _TODO_ |
-| Android version | _TODO_ |
-| Ambient temperature sensor available | _Yes / No_ |
-| Gyroscope available | _Yes / No_ |
-| Accelerometer available | _Yes / No_ |
+| Device | Android Emulator |
+| AVD name | Pixel_7 |
+| Android version | 17 |
+| API level | 37 |
+| Ambient temperature sensor available | Yes |
+| Gyroscope available | Yes |
+| Accelerometer available | Yes |
 
 ## Screenshot
 
